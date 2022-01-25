@@ -19,7 +19,7 @@ a {
   position: absolute;
   top: 0;
   right: 0;
-  background-image: url("../assets/controller.jpg");
+  background-image: url("assets/controller.jpg");
   background-size: cover;
   background-position-y: 50%;
   background-position-x: 50%;
