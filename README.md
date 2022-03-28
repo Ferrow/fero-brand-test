@@ -1,3 +1,3 @@
-﻿# fero-brand-test
+﻿# brand-practice
 
 https://ferrow.github.io/fero-brand-test/
